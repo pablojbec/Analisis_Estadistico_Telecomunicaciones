@@ -1,4 +1,4 @@
-### Analysis_ConnectaTel
+# Analysis_ConnectaTel
 Este repositorio contiene el análisis realizado para evaluar el comportamiento del uso de las llamadas y los textos, de los usuarios de la empresa latinoamericana de telecomunicaciones ConnectaTel en fechas anteriores al 2024.
 
 El dataset `plans` contiene las características de los dos tipos de planes ofrecidos por la empresa: Básico y Premium.
@@ -19,14 +19,14 @@ El dataset `usage` contiene el detalle del uso que hace cada uno de los usuarios
 
 Puedes ejecutar este notebook de las siguientes formas:
 
-# Opción 1: Abrir en Google Colab
+### Opción 1: Abrir en Google Colab
 - Ve a Google Colab
 - Haz clic en “File” > “Open notebook”
 - Selecciona la pestaña “GitHub”
 - Pega el enlace de este repositorio
 - Abre el archivo .ipynb
 
-# Opción 2: Ejecutar en local
+### Opción 2: Ejecutar en local
 
 - Clona este repositorio:
 git clone [https://github.com/pablojbec/Analysis_ConnectaTel.git]
