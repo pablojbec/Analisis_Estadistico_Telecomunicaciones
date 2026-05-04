@@ -30,7 +30,7 @@ El dataset `usage` contiene el detalle del uso que hace cada uno de los usuarios
 - Generar insights para el equipo de Estrategia e Integración de Connectatel
 -Proporcionar recomendaciones de acuerdo con el análisis realizado 
 
-##🧩Etapas de análisis realizadas
+## 🧩Etapas de análisis realizadas
 
 - Se realizó la limpieza y validación de los datos
 
