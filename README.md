@@ -1,4 +1,4 @@
-# Analysis_ConnectaTel
+# Análisis Estadístico Empresa de Telecomunicaciones
 Este repositorio contiene el análisis realizado para evaluar el comportamiento del uso de las llamadas y los textos, de los usuarios de la empresa latinoamericana de telecomunicaciones ConnectaTel en fechas anteriores al 2024.
 
 El dataset `plans` contiene las características de los dos tipos de planes ofrecidos por la empresa: Básico y Premium.
